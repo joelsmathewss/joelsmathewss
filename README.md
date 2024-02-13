@@ -6,9 +6,6 @@
 <!-- Introduction -->
 I'm an aspiring data scientist, passionate about leveraging data to gain insights and solve real-world problems. Welcome to my GitHub profile!
 
-<!-- Quick Links -->
-### Quick Links
-🌐 [Portfolio](https://your-portfolio-url.com) • 📝 [Blog](https://your-blog-url.com) • 📫 [Contact](mailto:youremail@example.com)
 
 <!-- Technologies -->
 ### Technologies I Work With
