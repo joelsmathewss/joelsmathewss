@@ -12,7 +12,7 @@ I'm an aspiring data scientist, passionate about leveraging data to gain insight
 - Python 🐍
 - SQL 📊
 - R 📈
-- 
+  
 <!-- Contact -->
 ### Contact Me
 📫 Email: [joelsmathewss@gmail.com](mailto:youremail@example.com) • 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/joel-s-mathews/) 
