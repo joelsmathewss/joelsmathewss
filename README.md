@@ -6,10 +6,6 @@
 <!-- Introduction -->
 I'm an aspiring data scientist, passionate about leveraging data to gain insights and solve real-world problems. Welcome to my GitHub profile!
 
-<!-- Badges -->
-![GitHub followers](https://img.shields.io/github/followers/your_username?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)
-
 <!-- Quick Links -->
 ### Quick Links
 🌐 [Portfolio](https://your-portfolio-url.com) • 📝 [Blog](https://your-blog-url.com) • 📫 [Contact](mailto:youremail@example.com)
