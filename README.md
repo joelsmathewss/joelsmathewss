@@ -17,7 +17,7 @@
 ### About Me
 - I'm an Undergrad student pursuing Bachelor's in AI/ML from [Muthoot Institute of Technology and Science, Varikoli](https://mgmits.ac.in/)
 - I am passionate about ML/DL and Data Science and aspire to become a Data Scientist soon.
-- No matter whatever tasks I'm assigned with, I am focused to it's completion without any delay and if it's beyond my skillsets, I first update myself before beginning with the problem.
+- No matter whatever tasks I'm assigned with, I'll be focused to it's completion without any delay and if it's beyond my skillsets, I first update myself before beginning with the problem.
 
 ---
 
