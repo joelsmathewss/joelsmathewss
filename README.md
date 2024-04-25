@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/joel-s-mathews/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/joelsmathews_/">
+    <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href="https://open.spotify.com/user/313fyz7nvfye43k7hi6zgrqbej5e?si=e950ceb689ca4466">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
