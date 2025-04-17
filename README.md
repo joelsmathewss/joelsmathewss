@@ -1,16 +1,25 @@
-## Hi there 👋
+# Howdy, wanderer👋
 
-<!--
-**joelsmathewss/joelsmathewss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Enthusiast and I love Dosas and Chai
 
-Here are some ideas to get you started:
+- 🌱 Passionate about accessibility, inspired by my personal journey and curiosity about inclusive tech.
+- 💪 Currently working on projects via [Frontend Mentor](https://www.frontendmentor.io/) to sharpen my frontend skills.
+- 📍 3rd year Artificial Intelligence and Data Science Student [Muthoot Institute of Technology and Science](https://mgmits.ac.in)
+- ✨ Let’s connect on [LinkedIn](www.linkedin.com/in/joel-s-mathews) and collaborate to make the web better for everyone!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages  
+**Python**, **R**, **C/C++**, **Java**, **JavaScript**, **HTML5**, **CSS3**, **SQL
+
+### ⚙️ Frameworks / Libraries   
+**Django**, **Flask**
+
+### 🛠 Misc Tools
+**Git**, **Apache Hadoop**, **Apache Hive**, **VS Code**, **Jupyter Notebook**, **Figma**,
+
+---
+
+Thanks for visiting! 🌟
