@@ -11,14 +11,11 @@ I'm a Computer Enthusiast and I love Dosas and Chai
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages  
-**Python**, **R**, **C/C++**, **Java**, **JavaScript**, **HTML5**, **CSS3**, **SQL
+-👨‍💻 Languages: Python, R, C/C++, Java, JavaScript, HTML5, CSS3, SQL
 
-### ⚙️ Frameworks / Libraries   
-**Django**, **Flask**
+-⚙️ Frameworks / Libraries: Django, Flask
 
-### 🛠 Misc Tools
-**Git**, **Apache Hadoop**, **Apache Hive**, **VS Code**, **Jupyter Notebook**, **Figma**,
+-🛠 Misc Tools: Git, Apache Hadoop, Apache Hive, VS Code, Jupyter Notebook, Figma,
 
 ---
 
