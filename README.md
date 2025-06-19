@@ -12,7 +12,7 @@ I'm a Computer Enthusiast and I love Dosas and Chai
 
 -👨‍💻 Languages: Python, R, C/C++, Java, SQL
 
--⚙️ Frameworks / Libraries: Django, Flask, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib
+-⚙️ Frameworks / Libraries: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib
 
 -🛠 Misc Tools: Git, Apache Hadoop, Apache Hive, VS Code, Jupyter Notebook, Figma,
 
