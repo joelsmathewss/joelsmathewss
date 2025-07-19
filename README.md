@@ -3,7 +3,7 @@
 I'm a Computer Enthusiast and I love Dosas and Chai
 
 - 🌱 Passionate about accessibility, inspired by my personal journey and curiosity about inclusive tech.
-- 📍 3rd year Artificial Intelligence and Data Science Student [Muthoot Institute of Technology and Science](https://mgmits.ac.in)
+- 📍 Final year Artificial Intelligence and Data Science Student [Muthoot Institute of Technology and Science](https://mgmits.ac.in)
 - ✨ Let’s connect on [LinkedIn](https://www.linkedin.com/in/joelsmathews/) and collaborate to make the web better for everyone!
 
 ---
