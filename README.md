@@ -1,5 +1,5 @@
 
-<h1 align="center"># Howdy, wanderer👋, I'm Joel S Mathews</h1>
+<h1 align="center"> Howdy, wanderer👋, I'm Joel S Mathews</h1>
 <h3 align="center">Driven to develop innovative projects and enhance my coding abilities. I'm actively pursuing opportunities to apply my programming skills to the evolving fields of Artificial Intelligence and Data Science.</h3>
 
 And Oh, I love Dosas and Chai
