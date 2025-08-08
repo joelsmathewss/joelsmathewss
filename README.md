@@ -1,4 +1,4 @@
-@@ -1,21 +1,15 @@
+
 # Howdy, wanderer👋
 <h1 align="center">Hi 👋, I'm Joel S Mathews</h1>
 <h3 align="center">Full Stack and Data Science Aspirant</h3>
