@@ -19,6 +19,6 @@ And Oh, I love Dosas and Chai
 
 -👨‍💻 Languages: Python, R, Java, SQL, HTML/CSS, JavaScript
 
--⚙️ Frameworks / Libraries: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Django, Fast API
+-⚙️ Frameworks / Libraries: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Django, Fast API, REACT
 
 -🛠 Misc Tools: Git, Apache Hadoop, VS Code, Jupyter Notebook, Figma
