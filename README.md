@@ -3,7 +3,7 @@
 <h3 align="center">Driven to develop innovative projects and enhance my coding abilities. I'm actively pursuing opportunities to apply my programming skills to the evolving fields of Artificial Intelligence and Data Science.</h3>
 
 
-<pre> ``` const name = "Joel"; const dev = newDev(name); while (dev.isCoding()){ dev.listenToMusic(); dev.drinkWater(); } ``` </pre>
+<pre> ```javascript  const name = "Joel"; const dev = newDev(name); while (dev.isCoding()){ dev.listenToMusic(); dev.drinkWater(); } ``` </pre>
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 - 🌱 Passionate about accessibility, inspired by my personal journey and curiosity about inclusive tech.
