@@ -2,6 +2,8 @@
 <h1 align="center"> Howdy, wanderer👋, I'm Joel S Mathews</h1>
 <h3 align="center">Driven to develop innovative projects and enhance my coding abilities. I'm actively pursuing opportunities to apply my programming skills to the evolving fields of Artificial Intelligence and Data Science.</h3>
 
+```javascript
+<pre> ``` const name = "Krishna Sarathi Ghosh"; const dev = newDev(name); while (dev.isCoding()){ dev.listenToMusic(); dev.drinkWater(); } ``` </pre>
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 - 🌱 Passionate about accessibility, inspired by my personal journey and curiosity about inclusive tech.
